@@ -8,3 +8,4 @@ La representación predeterminada usa el método de cortes naturales para defini
 
 Se incluye también las representaciones alternativas de métodos cuantiles y continuo.
 
+[Código](primer_mapa_interactivo.R)

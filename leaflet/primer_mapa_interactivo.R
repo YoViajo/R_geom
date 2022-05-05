@@ -19,7 +19,7 @@ library(rgdal)
 library(RColorBrewer)
 
 # Cargar datos de repositorio remoto
-munBo <- readOGR("/vsitar//vsicurl/https://github.com/YoViajo/geodatos/raw/master/municipios_339_pob2012_ed.geojson.tar.gz")
+munBo <- readOGR("/vsitar//vsicurl/https://github.com/YoViajo/geodatos/raw/master/bol_municipios_339_pob2012_ed.geojson.tar.gz")
 plot(munBo)
 
 # Mapa interactivo básico

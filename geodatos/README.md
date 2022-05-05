@@ -2,7 +2,8 @@
 
 Acceso a datos globales Natural Earth (https://www.naturalearthdata.com/) en diferentes escalas.
 
+![](salida/bol_ne_10m.png)
+
 [Código](naturalearth_Bolivia.R)
 
-![](salida/bol_ne_10m.png)
 

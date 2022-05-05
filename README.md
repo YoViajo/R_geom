@@ -8,4 +8,4 @@ Explorando el uso de datos geoespaciales en el entorno R
 
 | Proyecto             |  Gráfico |
 :-------------------------:|:-------------------------:
-Mapa interactivo de municipios  |  ![](leaflet/salida/mapa interactivo Bolivia municipios población 2012 - cortes naturales - leyenda.png.png)
+Mapa interactivo de municipios  |  ![](leaflet/salida/mapa interactivo Bolivia municipios población 2012 - cortes naturales - leyenda.png)

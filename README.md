@@ -8,4 +8,4 @@ Explorando el uso de datos geoespaciales en el entorno R
 
 | Proyecto             |  Gráfico |
 :-------------------------:|:-------------------------:
-Mapa interactivo de municipios  |  ![](leaflet/salida/mapa_munc_pob12_cortesnaturales_ley.png)
+[Mapa interactivo de municipios](leaflet/primer_mapa_interactivo.R)  |  ![](leaflet/salida/mapa_munc_pob12_cortesnaturales_ley.png)
